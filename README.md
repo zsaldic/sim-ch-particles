@@ -13,11 +13,8 @@ First, it computes the number (multiplicity) of charged particles by combining a
 ## Usage
 The code is run on a [Jupyter Notebook](https://jupyter.org/). It requires the [`nbi_stat`](https://pypi.org/project/nbi-stat/) module (statistical tools used for teaching at Niels Bohr Insitute (NBI), written by _Christian Holm Christensen_).
 
-A data sample (10^5 events) is provided and located in `/data` folder. To sample more data, follow the instructions of the [Glauber model](https://cholmcc.gitlab.io/nbi-python/mechanics/index.da.html#Glauber).  
-
-
-
-
+A data sample (100 events) is provided and located in `/data` folder. To sample more data, follow the instructions of the [Glauber model](https://cholmcc.gitlab.io/nbi-python/mechanics/index.da.html#Glauber).  
+***
 © 2020 Zlatko Šaldić
 
 
